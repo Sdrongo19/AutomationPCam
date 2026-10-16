@@ -1,0 +1,6 @@
+# Solo per rigenerare assets/gauntlet.npz con tools/build_gauntlet.py
+-r requirements.txt
+trimesh>=4.0
+pygltflib>=1.16
+scipy
+networkx
